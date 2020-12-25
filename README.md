@@ -1,11 +1,11 @@
-# Hi, I'm EvannG1 🙋‍♂️
-I'm a web backend developer, I also do sysadmin.
+# Arthur.B
+Simply making what I want with what I can.
 
 ## Links:🌍
-- 🚧 Personal website (soon)
+
 - 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/)
 
-## Connect with me
+## Official Links:
 
 <a href="https://github.com/Sehyn">
   <img alt="Sehyn | GitHub" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
