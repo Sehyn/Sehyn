@@ -3,7 +3,7 @@
 
 ## Links:🌍
 
-- 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/)
+- 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/) | Server OFFLINE 
 
 <br/>
 
