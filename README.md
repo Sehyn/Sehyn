@@ -11,6 +11,3 @@
 ![](https://komarev.com/ghpvc/?username=Sehyn&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehyn&show_icons=true&theme=radical)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sehyn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
