@@ -4,6 +4,7 @@
 ## Links:🌍
 
 - 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/) | Server OFFLINE 
+- 🚀 OnlyScripts [OnlyScripts](https://onlyscript.net/) | Server ONLINE
 
 <br/>
 
