@@ -1,10 +1,11 @@
 # Arthur.B
-- Apprendre, et être utile
+- Partage de mes créations en tout genres partant de la modification de mémoire, ) la création et innovation de solutions pour la clintèle ou public concerné.
 
 ## Links:🌍
 
-- 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/) | Server OFFLINE 
-- 🚀 OnlyScripts [OnlyScripts](https://onlyscript.net/) | Server ONLINE
+- 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/) | Server OFFLINE | 💻 - Logiciel de Multicompte pour le jeu-vidéo Dofus    
+- 🚀 OnlyScripts [OnlyScripts](https://onlyscript.net/) | Server ONLINE  | 🛒 - Plateforme d'achat/vente et téléchargement de scripts Lua 
+
 
 <br/>
 
