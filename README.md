@@ -1,5 +1,5 @@
 # Arthur.B
-- Partage de mes créations en tout genres partant de la modification de mémoire, ) la création et innovation de solutions pour la clintèle ou public concerné.
+- Partage de mes créations en tout genres en partant de la modification de mémoire, à la création et innovation de solutions pour la clientèle ou public concerné.
 
 ## Links:🌍
 
