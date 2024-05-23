@@ -5,7 +5,7 @@
 
 - 🚀 Dofus Multi-Tool [Multifus](https://multifus.net/) | Server OFFLINE | 💻 - Logiciel de Multicompte pour le jeu-vidéo Dofus    
 - 🚀 OnlyScripts [OnlyScripts](https://onlyscripts.net/) | Server OFFLINE  | 🛒 - Plateforme d'achat/vente et téléchargement de scripts Lua 
-- 🚀 Docs OnlyScripts [Docs OnlyScripts](https://docs.onlyscripts.net/) | Server ONLINE  | 💻 - Documentation sur l'utilisation des Scripts et Site Internet
+- 🚀 Docs OnlyScripts [Docs OnlyScripts](https://docs.onlyscripts.net/) | Server OFFLINE  | 💻 - Documentation sur l'utilisation des Scripts et Site Internet
 
 <br/>
 
